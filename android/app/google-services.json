@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300693818060",
+    "project_id": "zakariae-marbel",
+    "storage_bucket": "zakariae-marbel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300693818060:android:2d35b6e90b14b225321069",
+        "android_client_info": {
+          "package_name": "com.example.zakariae_marbre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSJUYFZwdzLk_NoMHNk5clFnXBOvV6-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
